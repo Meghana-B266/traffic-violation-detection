@@ -1,0 +1,43 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+
+# ML Models
+models/*.pt
+*.pt
+
+# Output files
+output/screenshots/*
+output/reports/*
+
+# Data
+data/raw/*
+
+# Node
+frontend/node_modules/
+frontend/dist/
+
+# VS Code
+.vscode/
+
+# Environment
+.env
+*.yaml.local
+
+# OS
+.DS_Store
+Thumbs.db
+output/
+*.db
+
+.env
+
+Helmet-detection-*/
+runs/
+.venv/
+node_modules/
